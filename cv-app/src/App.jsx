@@ -1,4 +1,5 @@
 
+import GeneralInformation from "./components/GeneralInformation"
 
 
 
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <GeneralInformation />
     </>
   )
 }
